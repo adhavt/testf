@@ -4,7 +4,7 @@
   font-family: 'Socicon';
   src:  url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.eot');
   src:  url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.eot') format('embedded-opentype'),
-    url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.woff') format('woff2'),
+    url('https://rawcdn.githack.com/adhavt/testf/1263c0f68fcaac97ced7e373e2605cab5da630bc/socicon.woff2?raw=true') format('woff2'),
     url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.ttf') format('truetype'),
     url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.woff') format('woff'),
     url('https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/0.1.0/font/socicon-webfont.svg') format('svg');
