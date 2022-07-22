@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Moririse2';
   font-display: swap;
-  src:  url('mobirise2.eot?f2bix4');
-  src:  url('mobirise2.eot?f2bix4#iefix') format('embedded-opentype'),
-    url('mobirise2.ttf?f2bix4') format('truetype'),
-    url('mobirise2.woff?f2bix4') format('woff'),
-    url('mobirise2.svg?f2bix4#mobirise2') format('svg');
+  src:  url('https://rawcdn.githack.com/adhavt/testf/3060cdbb1a95fa09a2b152e0f135fe373c389063/mobirise2.eot?raw=true');
+  src:  url('https://rawcdn.githack.com/adhavt/testf/3060cdbb1a95fa09a2b152e0f135fe373c389063/mobirise2.eot?raw=truex4#iefix') format('embedded-opentype'),
+    url('https://rawcdn.githack.com/adhavt/testf/3060cdbb1a95fa09a2b152e0f135fe373c389063/mobirise2.ttf?raw=true') format('truetype'),
+    url('https://rawcdn.githack.com/adhavt/testf/3060cdbb1a95fa09a2b152e0f135fe373c389063/mobirise2.woff?raw=true') format('woff'),
+    url('https://rawcdn.githack.com/adhavt/testf/3060cdbb1a95fa09a2b152e0f135fe373c389063/mobirise2.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
